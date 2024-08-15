@@ -1,0 +1,3 @@
+/home/albert/linux/my_project/build/CMakeFiles/project.dir
+/home/albert/linux/my_project/build/CMakeFiles/edit_cache.dir
+/home/albert/linux/my_project/build/CMakeFiles/rebuild_cache.dir

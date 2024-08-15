@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/project.dir/src/girls.cpp.o CMakeFiles/project.dir/src/hello.cpp.o CMakeFiles/project.dir/src/hi.cpp.o CMakeFiles/project.dir/src/main.cpp.o -o /tmp/tmp.5jJ8AyyNyN/bin/project 

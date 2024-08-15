@@ -1,0 +1,3 @@
+/tmp/tmp.vqrmY8HTPe/cmake-build-debug/CMakeFiles/project.dir
+/tmp/tmp.vqrmY8HTPe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.vqrmY8HTPe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
